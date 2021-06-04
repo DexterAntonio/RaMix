@@ -38,7 +38,7 @@ This is a brief tutorial that gives an overview of how to use the RaMix package 
 
 Example JSON from sugar fitting
 
-```json 
+```python 
 {'glucose': [{'wavenumber': 440.0, 'amplitude': 0.185, 'width': 56.28},
   {'wavenumber': 512.0, 'amplitude': 0.192, 'width': 38.64},
   {'wavenumber': 752.0, 'amplitude': 0.022, 'width': 90.09},
@@ -69,7 +69,7 @@ Think about what noise level and data set sizes you are interested in exploring,
 
 3.2 The RaMix package is designed to assess the performance of different cheminformatic algoritims across different noise levels, thus when running the software, a "noise dictionary" is supplied which describes the noise levels for all of the different datasets that will be generated. An example noise dictionary is shown below: 
 
-```json
+```python
  noise_dict = {'size': [10, 100],  
                'wavenumber_noise': [0.1, 0.5],  
                'amplitude_noise': [0.1, 0.5],  
