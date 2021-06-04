@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/*
+.tests/output/*
+.ipynb_checkpoints
+.DS_Store
+*.pyc

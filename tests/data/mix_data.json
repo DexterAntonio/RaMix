@@ -1,0 +1,42 @@
+{"Species": 
+    {"ethanol":[{"wavenumber": 1600, "amplitude": 15, "width": 20},
+                {"wavenumber": 1400, "amplitude": 15, "width": 20},
+                {"wavenumber": 1200, "amplitude": 15, "width": 20},
+                {"wavenumber": 1000, "amplitude": 15, "width": 10},
+                {"wavenumber":  900, "amplitude": 15, "width": 10},
+                {"wavenumber":  800, "amplitude": 25, "width": 10},
+                {"wavenumber":  400, "amplitude": 10, "width": 10}],
+
+     "glucose": [{"wavenumber": 1633, "amplitude": 15, "width": 20},
+                 {"wavenumber": 1311, "amplitude": 20, "width": 20},
+                 {"wavenumber": 1211, "amplitude": 15, "width": 20},
+                 {"wavenumber": 1099, "amplitude": 30, "width": 10},
+                 {"wavenumber":  853, "amplitude": 25, "width": 10},
+                 {"wavenumber":  639, "amplitude": 25, "width":  5},
+                 {"wavenumber":  345, "amplitude": 15, "width": 10}], 
+    
+    
+     "water":  [{"wavenumber": 1532, "amplitude": 18, "width": 20},
+                {"wavenumber": 1333, "amplitude": 20, "width": 20},
+                {"wavenumber": 1222, "amplitude": 15, "width": 20},
+                {"wavenumber": 1111, "amplitude":  5, "width": 10},
+                {"wavenumber":  888, "amplitude": 6, "width": 5},
+                {"wavenumber":  444, "amplitude": 15, "width": 10}],
+
+     "gylcerol": [{"wavenumber": 1530,"amplitude": 10, "width": 1},
+                  {"wavenumber": 1341, "amplitude": 10, "width": 10}, 
+                  {"wavenumber": 1223, "amplitude": 10, "width": 1},
+                  {"wavenumber": 950, "amplitude": 10, "width": 4}, 
+                  {"wavenumber": 925, "amplitude": 15, "width": 10}, 
+                  {"wavenumber": 321, "amplitude": 25, "width": 5},
+                  {"wavenumber": 521, "amplitude": 30, "width": 8}],
+
+     "lactic acid": [{"wavenumber": 1351, "amplitude": 15, "width": 20}, 
+                     {"wavenumber": 351, "amplitude": 15, "width": 20}, 
+                     {"wavenumber": 500, "amplitude": 15, "width": 20},
+                     {"wavenumber": 450, "amplitude": 15, "width": 10}, 
+                     {"wavenumber": 430, "amplitude": 15, "width": 10},
+                     {"wavenumber": 400, "amplitude": 25, "width": 5}, 
+                     {"wavenumber": 325, "amplitude": 15, "width": 10}]
+     }
+    }

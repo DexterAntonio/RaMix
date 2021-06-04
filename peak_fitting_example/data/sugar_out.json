@@ -1,0 +1,108 @@
+{
+    "fructose": [
+        {
+            "amplitude": 0.127,
+            "wavenumber": 452.0,
+            "width": 92.35
+        },
+        {
+            "amplitude": 0.125,
+            "wavenumber": 626.0,
+            "width": 25.16
+        },
+        {
+            "amplitude": 0.105,
+            "wavenumber": 816.0,
+            "width": 13.13
+        },
+        {
+            "amplitude": 0.075,
+            "wavenumber": 864.0,
+            "width": 21.68
+        },
+        {
+            "amplitude": 0.067,
+            "wavenumber": 1074.0,
+            "width": 45.49
+        },
+        {
+            "amplitude": 0.139,
+            "wavenumber": 1347.0,
+            "width": 88.64
+        },
+        {
+            "amplitude": 0.024,
+            "wavenumber": 1819.0,
+            "width": 220.43
+        }
+    ],
+    "glucose": [
+        {
+            "amplitude": 0.185,
+            "wavenumber": 440.0,
+            "width": 56.28
+        },
+        {
+            "amplitude": 0.192,
+            "wavenumber": 512.0,
+            "width": 38.64
+        },
+        {
+            "amplitude": 0.022,
+            "wavenumber": 752.0,
+            "width": 90.09
+        },
+        {
+            "amplitude": 0.065,
+            "wavenumber": 860.0,
+            "width": 21.21
+        },
+        {
+            "amplitude": 0.074,
+            "wavenumber": 906.0,
+            "width": 22.03
+        },
+        {
+            "amplitude": 0.083,
+            "wavenumber": 1059.0,
+            "width": 40.51
+        },
+        {
+            "amplitude": 0.084,
+            "wavenumber": 1124.0,
+            "width": 28.74
+        },
+        {
+            "amplitude": 0.166,
+            "wavenumber": 1355.0,
+            "width": 90.66
+        },
+        {
+            "amplitude": 0.038,
+            "wavenumber": 1820.0,
+            "width": 349.7
+        }
+    ],
+    "sucrose": [
+        {
+            "amplitude": 0.104,
+            "wavenumber": 467.0,
+            "width": 151.71
+        },
+        {
+            "amplitude": 0.086,
+            "wavenumber": 840.0,
+            "width": 34.11
+        },
+        {
+            "amplitude": 0.056,
+            "wavenumber": 1071.0,
+            "width": 62.0
+        },
+        {
+            "amplitude": 0.15,
+            "wavenumber": 1353.0,
+            "width": 97.41
+        }
+    ]
+}
