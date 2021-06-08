@@ -16,7 +16,7 @@ setup(
                      "performance of different chemoinformatics algorithms, such as "
                      "partial least squares (PLS) and 1D Convolution Neural Networks (1D-CNN).",
 
-    long_description_content_type='text',
+    long_description_content_type='text/plain',
     url='https://github.com/DexterAntonio/ramix',
     author='Dexter Antonio',
     author_email='dexter.d.antonio@gmail.com',
@@ -26,7 +26,7 @@ setup(
     install_requires=['numpy'],
 
     classifiers=[
-        'Development Status :: 3 - beta',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Science/Research',
         'Programming Language :: Python :: 3.8',
     ],
