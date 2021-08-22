@@ -36,5 +36,5 @@ setup(
         'Source': 'https://github.com/DexterAntonio/RaMix/',
         'Tracker': 'https://github.com/RaMix/issues',
     },
-    python_requires='>=3'
+    python_requires='>=3.5'
 )
